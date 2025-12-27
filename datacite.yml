@@ -20,12 +20,25 @@ data:
         nameIdentifiers: []
         contributorType: Supervisor
         order: 2
+      - name: Chi-Hyeon Yoo
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_1
+          - nameIdentifier: https://orcid.org/0000-0001-5234-4583
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Researcher
+        order: 3
     creators:
       - name: Nisha Rani
         nameType: Personal
         nameIdentifiers: *ref_0
       - name: Hsiao-Ying Wey
         nameType: Personal
+      - name: Chi-Hyeon Yoo
+        nameType: Personal
+        nameIdentifiers: *ref_1
     descriptions:
       - description: N/A
         descriptionType: Abstract
