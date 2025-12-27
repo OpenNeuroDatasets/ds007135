@@ -3,13 +3,6 @@ data:
     types:
       resourceTypeGeneral: Dataset
     contributors:
-      - name: Chi-Hyeon Yoo
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 1
       - name: Nisha Rani
         givenName: ''
         familyName: ''
@@ -19,17 +12,15 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 2
+        order: 1
       - name: Hsiao-Ying Wey
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Supervisor
-        order: 3
+        order: 2
     creators:
-      - name: Chi-Hyeon Yoo
-        nameType: Personal
       - name: Nisha Rani
         nameType: Personal
         nameIdentifiers: *ref_0
