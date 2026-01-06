@@ -86,13 +86,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 11
-      - name: Hsiao-Ying Wey
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Supervisor
-        order: 12
     creators:
       - name: Chi-Hyeon Yoo
         nameType: Personal
@@ -117,8 +110,6 @@ data:
       - name: Julie Price
         nameType: Personal
       - name: Jacob Hooker
-        nameType: Personal
-      - name: Hsiao-Ying Wey
         nameType: Personal
     descriptions:
       - description: N/A
