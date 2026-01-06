@@ -86,6 +86,16 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 11
+      - name: Hsiao-Ying Wey
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: &ref_2
+          - nameIdentifier: https://orcid.org/0000-0002-1425-8489
+            nameIdentifierScheme: ORCID
+            schemeUri: https://orcid.org
+        contributorType: Supervisor
+        order: 12
     creators:
       - name: Chi-Hyeon Yoo
         nameType: Personal
@@ -111,6 +121,9 @@ data:
         nameType: Personal
       - name: Jacob Hooker
         nameType: Personal
+      - name: Hsiao-Ying Wey
+        nameType: Personal
+        nameIdentifiers: *ref_2
     descriptions:
       - description: N/A
         descriptionType: Abstract
