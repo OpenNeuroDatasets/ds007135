@@ -96,16 +96,6 @@ data:
             schemeUri: https://orcid.org
         contributorType: Supervisor
         order: 12
-      - name: Chi-Hyeon Yoo
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_3
-          - nameIdentifier: https://orcid.org/0000-0001-5234-4583
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 13
     creators:
       - name: Chi-Hyeon Yoo
         nameType: Personal
@@ -134,9 +124,6 @@ data:
       - name: Hsiao-Ying Wey
         nameType: Personal
         nameIdentifiers: *ref_2
-      - name: Chi-Hyeon Yoo
-        nameType: Personal
-        nameIdentifiers: *ref_3
     descriptions:
       - description: N/A
         descriptionType: Abstract
