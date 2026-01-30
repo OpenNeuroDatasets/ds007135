@@ -22,5 +22,5 @@
             "Description": "DICOM to NIfTI conversion for PET and MRI data"
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds007135.v1.0.0"
+    "DatasetDOI": "doi:10.18112/openneuro.ds007135.v1.1.0"
 }
