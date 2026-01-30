@@ -1,0 +1,58 @@
+{
+    "Manufacturer": "Siemens",
+    "ManufacturersModelName": "BrainPET Prototype Insert",
+    "Units": "Bq/mL",
+    "TracerName": "Martinostat",
+    "TracerRadionuclide": "11C",
+    "ModeOfAdministration": "bolus",
+    "BodyPart": "brain",
+    "ReconMethodName": "OSEM",
+    "ReconMethodParameterLabels": [
+        "Iterations",
+        "Subsets",
+        "PostFilter"
+    ],
+    "ReconMethodParameterUnits": [
+        "count",
+        "count",
+        "mm FWHM"
+    ],
+    "ReconMethodParameterValues": [
+        4,
+        16,
+        2.0
+    ],
+    "InjectedRadioactivity": 557960000.0,
+    "InjectedRadioactivityUnits": "Bq",
+    "SpecificRadioactivity": 36778000000.0,
+    "SpecificRadioactivityUnits": "Bq/\u00b5mol",
+    "InjectedMass": "n/a",
+    "InjectedMassUnits": "ug",
+    "InjectionStart": 0,
+    "ScanStart": 0,
+    "AcquisitionMode": "listmode",
+    "AttenuationCorrection": "MR-based attenuation correction",
+    "ReconFilterType": "Gaussian",
+    "ImageDecayCorrected": true,
+    "ImageDecayCorrectionTime": 0,
+    "TimeZero": "00:00:00",
+    "ReconFilterSize": 2.0,
+    "FrameTimesStart": [
+        0,
+        3600,
+        3900,
+        4200,
+        4500,
+        4800,
+        5100
+    ],
+    "FrameDuration": [
+        3600,
+        300,
+        300,
+        300,
+        300,
+        300,
+        300
+    ]
+}
